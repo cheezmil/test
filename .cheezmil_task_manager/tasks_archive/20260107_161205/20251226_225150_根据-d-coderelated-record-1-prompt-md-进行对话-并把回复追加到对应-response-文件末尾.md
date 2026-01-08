@@ -1,0 +1,4 @@
+- [ ] 1. 读取 D:\CodeRelated\Record\1_prompt.md
+- [ ] 2. 拟定中文回复内容（与用户聊天）
+- [ ] 3. 将回复内容追加写入 D:\CodeRelated\Record\1_response.md（仅追加，不读取）
+- [ ] 4. 在对话中输出同样的回复给用户
