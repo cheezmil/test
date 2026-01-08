@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.temp_git_download/
+
+# cqg 临时目录（历史遗留/异常情况下可能生成在仓库根目录）
+cqg_tmp_no_config*/
+
+# cqg 日志通常不应参与版本控制
+.cheezmil_quick_git/logs/
+
