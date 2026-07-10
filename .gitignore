@@ -1,0 +1,14 @@
+# cqg-head
+# cqg-all-platforms-ignore-head
+.cheezmil_quick_git/logs/
+.cheezmil_quick_git/_worktrees/
+.cheezmil_quick_git/*.mjs
+node_modules/
+# cqg-all-platforms-ignore-end
+# cqg-gitea-all-project-ignore-head
+# cqg-gitea-all-project-ignore-end
+# cqg-gitea-this-project-ignore-head
+# cqg-gitea-this-project-ignore-end
+# cqg-end
+
+123123
