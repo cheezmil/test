@@ -5,14 +5,6 @@
 .cheezmil_quick_git/*.mjs
 node_modules/
 # cqg-all-platforms-ignore-end
-.cheezmil_quick_git/logs/
-.cheezmil_quick_git/_platform_repos/
-.cheezmil_quick_git/*.mjs
-node_modules/
-.cheezmil_quick_git/logs/
-.cheezmil_quick_git/_platform_repos/
-.cheezmil_quick_git/*.mjs
-node_modules/
 # cqg-github-all-project-ignore-head
 .cheezmil_task_manager/
 .cheezmil_quick_git/
